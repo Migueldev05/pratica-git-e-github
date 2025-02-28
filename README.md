@@ -20,6 +20,6 @@ git add .
 3. Fazendo o commit 
 
 ```bash 
-git commit -m "Mensagem"
+git commit -m "Sonic é o melhor protagonista dos jogos"
 ```
 **Atenção!** Todo commit deve ter uma descrição 
