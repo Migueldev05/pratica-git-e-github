@@ -22,4 +22,4 @@ git add .
 ```bash 
 git commit -m "Sonic é o melhor protagonista dos jogos"
 ```
-**Atenção!** Todo commit deve ter uma descrição 
+**Atenção!** Todo commit deve ter uma descrição
